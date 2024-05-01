@@ -17,5 +17,5 @@
 clean:
 	@rm -f 1_passing_streams_to_functions
 	@rm -f 2_appending_data
-	@rm -f 3_with_if
-	@rm -f 4_with_while
+	@rm -f 3_eof_with_if
+	@rm -f 4_eof_with_while
